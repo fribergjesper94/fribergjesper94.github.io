@@ -1,0 +1,109 @@
+.index-h1
+{
+    color: rgb(194, 127, 27);
+    font-size: 70px;
+    font: impact;
+    
+}
+
+p
+{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-style: italic;
+    
+}
+
+ul 
+
+{
+    color: darkolivegreen;
+    font-size: 35px;
+    font-style: italic;
+    
+}
+
+.class-h1
+
+{
+    color: chocolate;
+    font-size: 35px;
+    font-weight: bold;
+   position: relative;
+   top: 50px;
+}
+
+
+.contact-h1
+
+{
+    color: rgb(5, 6, 8);
+    font-size: 20px;
+    font-style: italic;
+    position: relative;
+    top: 100px;
+}
+
+
+.class-h2
+
+{
+    color: chocolate;
+    font-size: 35px;
+    position: relative;
+    top: 100px;
+}
+
+* 
+{
+    background-color: rgb(218, 168, 127);
+}
+
+.index-a
+
+{
+    font-size: 20px;
+    
+}
+
+.index-a:link {
+    text-decoration: none;
+}
+
+.index-a:hover {
+    color: crimson;
+}
+
+.footer 
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+}
+
+
+.port-h2 
+
+{
+    font-size: 35px;
+}
+
+.port-h2:link, .port-h2:visited
+
+{
+    background-color: white;
+    color: black;
+    border-radius: 10px 140px 30px 140px;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.port-h2:hover, .port-h2:active {
+    background-color: green;
+    color: white;
+}
